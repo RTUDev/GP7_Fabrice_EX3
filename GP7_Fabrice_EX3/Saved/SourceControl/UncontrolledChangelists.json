@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/myFolder/myMaps/myLevel.umap",
-				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.uasset"
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.uasset",
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/myFolder/BP_DeathDetector.uasset",
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/myFolder/BP_SpawnPoints.uasset",
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/myFolder/CP_SpawnPoints.uasset",
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/myFolder/BP_PropellerTower.uasset",
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/myFolder/CP_PropellerTower.uasset",
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 3 Map/Exercise 3 Deliverables/GP7_Fabrice_EX3/Content/myFolder/BP_Teleporter.uasset"
 			]
 		}
 	]
